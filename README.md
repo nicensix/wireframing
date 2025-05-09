@@ -1,4 +1,3 @@
-# wireframing
 # Wireframing Fundamentals
 
 ## Introduction
